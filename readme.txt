@@ -1,1 +1,5 @@
-Git is a version control software.
+Git is a distributed version control software.
+
+Git is nice....
+
+lius is holy funcking geek...
